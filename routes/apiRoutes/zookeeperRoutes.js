@@ -4,7 +4,7 @@ const {
   findById,
   createNewZookeeper,
   validateZookeeper
-} = require('../../lib/zookeepers');
+} = require('../../lib/zookeeper');
 const { zookeepers } = require('../../data/zookeepers');
 
 router.get('/zookeepers', (req, res) => {
