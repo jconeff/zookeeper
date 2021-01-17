@@ -10,7 +10,7 @@ Express.js application for taking notes. Add, edit, delete notes.
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Demo](#Demo)
+* [Built With](#Built With)
 * [License](#license)
 * [Credits](#credits)
 
