@@ -26,6 +26,14 @@ None
 * The pencil icon will allow the user to add a new note at any time.
 * The trash icon will delete the selected note.
 
+ <p align="left">
+  <img width="800" height="350" src="https://user-images.githubusercontent.com/65797801/104855733-7130b900-58dc-11eb-8d98-71129e31a87d.png">
+</p>
+
+ <p align="left">
+  <img width="1000" height="350" src="https://user-images.githubusercontent.com/65797801/104855780-c1a81680-58dc-11eb-8321-79420282b0fb.png">
+</p>
+
 ## Built With
 * Express.js
 * HTML/CSS
