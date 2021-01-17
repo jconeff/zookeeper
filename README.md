@@ -26,7 +26,12 @@ None
 * The pencil icon will allow the user to add a new note at any time.
 * The trash icon will delete the selected note.
 
-
+## Built With
+* Express.js
+* HTML/CSS
+* JSON
+* JavaScript
+* UUID
 
 ## License
 [MIT license](https://github.com/jconeff/README_generator/blob/main/LICENSE)
