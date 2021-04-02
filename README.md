@@ -1,8 +1,8 @@
-# Budget Search Engine
+# Zoo Keeper
 [![License: MIT](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
-Zookeepr is an Express.js application for cataloguing zoo animals and tracking zookeepers.
+Zookeeper is an Express.js application for cataloguing zoo animals and tracking zookeepers.
 [Deploy Here!](https://radiant-sands-17217.herokuapp.com/)
 
 
